@@ -1,5 +1,10 @@
 # FinalMobile
 
-![image](https://user-images.githubusercontent.com/112181826/207519469-7a887d9b-7af9-4353-ad2d-ec5504189275.png)
-![image](https://user-images.githubusercontent.com/112181826/207519489-de6aef5e-2d14-4d22-a833-4c61093070f0.png)
-![image](https://user-images.githubusercontent.com/112181826/207519517-860c3785-b904-4ff3-a609-bc8830ce488b.png)
+##### NIM D121201050
+##### Maylinda Eka Christy
+##### Kelas B
+
+![image](https://user-images.githubusercontent.com/112181826/207589311-e13cebce-9a26-470a-aa53-ab02b913902c.png)
+![image](https://user-images.githubusercontent.com/112181826/207589355-9889baef-47f6-4d40-8317-34d01b4ab5d3.png)
+![image](https://user-images.githubusercontent.com/112181826/207589381-c898874b-5101-42b8-9d6b-9093ca4f5338.png)
+

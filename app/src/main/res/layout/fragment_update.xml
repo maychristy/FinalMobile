@@ -13,20 +13,22 @@
         tools:context=".ui.update.UpdateFragment">
 
         <EditText
+            android:gravity="center"
             android:id="@+id/update_edt_task"
             android:layout_width="200dp"
             android:layout_height="wrap_content"
-            android:layout_marginTop="16dp"
+            android:layout_marginTop="288dp"
             android:autofillHints=""
             android:ems="10"
             android:hint="@string/enter_task"
             android:inputType="textPersonName"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintHorizontal_bias="0.502"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
         <Spinner
+            android:textAlignment="center"
             android:id="@+id/update_spinner"
             android:layout_width="200dp"
             android:layout_height="wrap_content"
